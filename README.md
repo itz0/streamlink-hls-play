@@ -1,5 +1,5 @@
 # streamlink-hls-play
-### This solution was made to quickly and easily allow you to play HLS with m3u8 playlist, faster rewind, with or without socks 5 proxy, it only consists of a command line script BAT file run from under Windows, this script is used in its work by the package Streamlink https://streamlink.github.io/ perfect for this, this solution is necessary when the player on a web site loads video data very slowly and instead of pleasant viewing you constantly wait for the video to load
+### This solution was made to quickly and easily allow you to play HLS stream from m3u8 playlist with faster rewind, with or without using socks 5 proxy, it only consists of a command line script BAT file run from under Windows, this script is used in its work by the package Streamlink https://streamlink.github.io/ perfect for this, this solution is necessary when the player on a web site loads video data very slowly and instead of pleasant viewing you constantly wait for the video to load
 
 ## Installation:
 1. Download and install Streamlink with this link https://github.com/streamlink/streamlink/releases/latest  latest version file on this moment is streamlink-2.0.0.exe
