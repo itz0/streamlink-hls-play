@@ -13,7 +13,8 @@
    for Chrome https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmkpdcdffhdbmpbcfekj?hl=en
 
 5. Download BAT script file "Streamlink-play.bat" from this project
-6. Edit BAT file according to your task - change your system path's, use or not socks 5 proxy and etc.
+
+6. Edit with notepad downloaded BAT file according to your task - change your system path's, use or not socks 5 proxy and etc.
 
    >set MPC="C:\Program Files (x86)\K-Lite Codec Pack\MPC-HC64\mpc-hc64.exe"
 
