@@ -2,7 +2,7 @@
 ### This solution was made to quickly and easily allow you to play HLS stream from m3u8 playlist with faster rewind, with or without using socks 5 proxy, it only consists of a command line script BAT file run from under Windows, this script is used in its work by the package Streamlink https://streamlink.github.io/ perfect for this, this solution is necessary when the player on a web site loads video data very slowly and instead of pleasant viewing you constantly wait for the video to load
 
 ## Installation:
-1. Download and install Streamlink with this link https://github.com/streamlink/streamlink/releases/latest  latest version file on this moment is streamlink-2.0.0.exe
+1. Download and install Streamlink with this link https://github.com/streamlink/streamlink/releases/latest  latest version file on this moment is streamlink-2.1.1.exe
 
 2. Download and install K-Lite Codec Pack Mega with Media Player Classic (MPC-HC) with this link https://codecguide.com/download_k-lite_codec_pack_mega.htm
 
@@ -12,7 +12,7 @@
 
    for Chrome https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmkpdcdffhdbmpbcfekj?hl=en
 
-5. Download BAT script file from this project
+5. Download BAT script file "Streamlink-play.bat" from this project
 6. Edit BAT file according to your task - change your system path's, use or not socks 5 proxy and etc.
 
    >set MPC="C:\Program Files (x86)\K-Lite Codec Pack\MPC-HC64\mpc-hc64.exe"
