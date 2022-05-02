@@ -11,7 +11,7 @@
    for Mozilla Firefox https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/
 
    for Chrome https://chrome.google.com/webstore/detail/live-stream-downloader/looepbdllpjgdmkpdcdffhdbmpbcfekj?hl=en
-
+   
 5. Download BAT script file "Streamlink-play.bat" from this project
 
 6. Edit with notepad downloaded BAT file according to your task - change your system path's, use or not socks 5 proxy and etc.
